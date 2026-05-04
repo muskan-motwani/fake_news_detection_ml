@@ -45,6 +45,9 @@ The dataset used in this project is taken from **Kaggle**, containing labeled ne
 ![App Screenshot](screenshot.png)
 
 ---
+## 🚀 Live Demo
+
+👉 [Try the App](https://fakenewsdetectionml-7rhsh4fmwzxdp58eoo6qeq.streamlit.app/)
 
 
 ## 📄 Project Report
