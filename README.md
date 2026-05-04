@@ -40,10 +40,11 @@ The dataset used in this project is taken from **Kaggle**, containing labeled ne
 ---
 
 ## 🖥️ Application Preview
+## 📸 App Screenshot
 
-![App Screenshot] Fake_News_Detection_ML/Screenshot 2026-05-04 124459.png
+![App Screenshot](screenshot.png)
 
-> *(Upload your screenshot in repo and name it screenshot.png)*
+
 
 ---
 
