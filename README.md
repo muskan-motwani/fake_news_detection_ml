@@ -40,19 +40,16 @@ The dataset used in this project is taken from **Kaggle**, containing labeled ne
 ---
 
 ## 🖥️ Application Preview
-## 📸 App Screenshot
+
 
 ![App Screenshot](screenshot.png)
 
-
-
 ---
+
 
 ## 📄 Project Report
 
-📥 [Download Full Report](report/your-report-name)
-
-> *(Upload your report inside `report` folder and update name here)*
+[📥 Download Full Report](capstone_report.docx)
 
 ---
 
